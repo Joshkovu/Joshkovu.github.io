@@ -372,7 +372,6 @@ a:focus {
             transform: translateY(-45px);
   }
 }
-
 .slider_section .carousel-indicators {
   position: unset;
   margin: 0;
@@ -384,7 +383,7 @@ a:focus {
           align-items: center;
 }
 
-.slider_section .carousel-indicators li {
+/*.slider_section .carousel-indicators li {
   background-color: #ffffff;
   width: 12px;
   height: 12px;
@@ -397,7 +396,7 @@ a:focus {
   height: 20px;
   background-color: #00bbf0;
 }
-
+*/
 .service_section {
   position: relative;
 }
@@ -773,7 +772,7 @@ a:focus {
   color: #00204a;
 }
 
-/* client section end */
+/* client section end 
 .info_section {
   background-color: #00204a;
   color: #ffffff;
@@ -911,7 +910,7 @@ a:focus {
   background-color: #007fa4;
 }
 
-/* footer section*/
+/* footer section
 .footer_section {
   position: relative;
   background-color: #ffffff;
