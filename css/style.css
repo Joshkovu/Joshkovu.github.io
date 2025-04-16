@@ -859,7 +859,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   margin-bottom: 15px;
-  color: #ffffff;
+  color: black;
 }
 
 .info_section .info_links a:hover {
